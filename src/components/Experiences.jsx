@@ -5,7 +5,7 @@ function Experiences() {
       <div className="flex-grow flex flex-col rounded-3xl bg-base-100 bg-opacity-10">
         <div className="p-4 flex  gap-8">
           <img
-            src="/avatar.png"
+            src="/avatar.jpg"
             alt="photo de profil"
             className="rounded-3xl h-24"
           />
